@@ -16,7 +16,8 @@ const scaleVariants = {
 
 function Header() {
 
-  const circles = [images.flutter, images.redux, images.sass, images.sass, images.sass] //change in future with another images
+  const circles = [images.javascript, images.node, images.react  
+    ,images.redux, images.reactNative, images.git] 
 
   return (
     <div className='app__header app__flex' id='home'>
